@@ -1,2 +1,2 @@
-# Hello-partner
-Shc
+SHC-partner
+Hyungchul Shin
