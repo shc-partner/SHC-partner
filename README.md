@@ -1,3 +1,1 @@
 SHC-partner
-
-Hyungchul Shin
